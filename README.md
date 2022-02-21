@@ -1,8 +1,8 @@
-# Project 2 - *Name of App Here*
+# Project 2 - Twitteroo
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+Twitteroo is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/IJjY1Mb" width=250><br>
+![alt-text](https://github.com/sandy-marrero/codepathunit3/blob/main/codepathdemo3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
