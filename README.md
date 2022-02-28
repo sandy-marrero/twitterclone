@@ -2,7 +2,7 @@
 
 Twitteroo is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 UNIT 3
@@ -51,15 +51,18 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+Unit 3
 <img src="https://imgur.com/a/IJjY1Mb" width=250><br>
 ![alt-text](https://github.com/sandy-marrero/codepathunit3/blob/main/codepathdemo3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+Unit 4
+![alt-text](https://github.com/sandy-marrero/codepathunit3/blob/main/codepathdemo4.gif)
+
 ## Notes
 
-This unit was considerably more vast than previous ones.
+This unit was considerably more vast than previous ones. Liked continuing working on the client and all its functionality.
 
 ## Open-source libraries used
 
