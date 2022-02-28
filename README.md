@@ -1,4 +1,4 @@
-# Project 2 - Twitteroo
+# Project 2 - Twitteroo UNIT 3 & 4
 
 Twitteroo is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
